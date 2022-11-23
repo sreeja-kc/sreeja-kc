@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreeja-kc
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... C++ and JAVA
+- 🌱 I’m currently learning ... C and JAVA
 - 💞️ I’m looking to collaborate on ...open source projects
 - 📫 How to reach me ... 
 
